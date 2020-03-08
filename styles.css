@@ -1,0 +1,64 @@
+p {
+    color: black;
+    font-family: arial;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+li {
+    color: black;
+    font-family: arial;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+footer {
+    display: flex;
+    color: black;
+    font-family: verdana;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    justify-content: space-around;
+}
+
+h1 {
+    color: orangered;
+    font-size: 45px;
+    font-family: trebuchet  ms;
+    text-align: center;
+}
+
+h2 {
+    color: darkorange;
+    font-size: 2em;
+    font-family: verdana;
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+strong:hover {
+    color: red;
+}
+
+body {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+#musiques, #fiches {
+    display: flex;
+    justify-content: space-around;
+}
